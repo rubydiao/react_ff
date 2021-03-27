@@ -12,6 +12,12 @@ const NavBar = () => {
                     <NavLink to="/register" className="nav-link">
                         Register
                     </NavLink>
+                    <NavLink to="/pointpage" className="nav-link">
+                        Homework1
+                    </NavLink>
+                    <NavLink to="/dynamic" className="nav-link">
+                        Homework2
+                    </NavLink>
                 </Nav>
                 <Form inline>
                     <FormControl

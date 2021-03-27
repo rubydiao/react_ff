@@ -21,6 +21,9 @@ function App() {
                 <Route path={'/pointpage'}>
                     <PointPage />
                 </Route>
+                <Route path={'/dynamic'}>
+                    <DynamicPage />
+                </Route>
             </Switch>
         </Router>
     )
